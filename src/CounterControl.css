@@ -1,0 +1,24 @@
+.navbar {
+  display: inline;
+}
+.CounterControl {
+  width: 150px;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  border: none;
+  margin: 16px;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
+}
+
+.CounterControl:hover {
+  background-color: #eee;
+  color: black;
+}
+.CounterControl:active {
+  border: rgb(228, 194, 102);
+  background-color: rgb(105, 174, 196);
+}

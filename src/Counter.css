@@ -1,0 +1,41 @@
+.backcolor {
+  background-color: black;
+}
+.btnResult {
+  width: 200px;
+  height: 55px;
+  background-color: rgb(59, 59, 59);
+  color: white;
+  cursor: pointer;
+  border: none;
+}
+.btnResult:hover {
+  background-color: black;
+  color: white;
+}
+ul {
+  margin-top: 10px;
+  float: left;
+  list-style-type: none;
+  cursor: pointer;
+}
+ul li {
+  height: 20px;
+  margin-top: 5px;
+  background-color: #57c774;
+  color: white;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  display: inline-block;
+  margin-left: 10px;
+  border-radius: 4px;
+}
+.btnReset {
+  width: 200px;
+  height: 55px;
+  background-color: rgb(59, 59, 59);
+  color: white;
+  cursor: pointer;
+  border: none;
+  margin-left: 10px;
+}
